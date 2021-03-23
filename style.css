@@ -8,3 +8,15 @@ html, body{
     height:100%;
 }
 
+body{
+    background-color: rgba(35, 69, 99, 0.342);
+}
+
+main header{
+    margin: auto;
+    margin-top: 40px;
+    width: 500px;
+    padding: 20px;
+    box-shadow: 3px 3px 5px black;
+    background-color: rgb(175, 134, 72);
+}
