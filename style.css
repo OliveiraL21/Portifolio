@@ -11,7 +11,15 @@ html, body{
 body{
     background-color: rgba(35, 69, 99, 0.342);
 }
-
+main{
+    width: 100%;
+    min-width: 1000px;
+    height: 20%;
+    background-image: url("images/hardware.jfif");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 main header{
     margin: auto;
     margin-top: 40px;
