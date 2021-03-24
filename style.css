@@ -8,38 +8,3 @@ html, body{
     height:100%;
 }
 
-body{
-    background-color: rgba(35, 69, 99, 0.342);
-}
-main{
-    width: 100%;
-    min-width: 1000px;
-    height: 20%;
-    background-image: url("images/hardware.jfif");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-main header{
-    margin: auto;
-    margin-top: 40px;
-    width: 800px;
-    height: 300px;
-    padding: 10px;
-    box-shadow: 3px 3px 5px black;
-    background-color: rgba(145, 63, 39, 0.63);
-    
-}
-.clear{
-    clear:both;
-}
-section{
-    background-image: url("images/perfil.jpg");
-    width: 400px;
-    height: 320px;
-    background-position:center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    float: right;
-    transform: translate(50px, -89px);
-}
