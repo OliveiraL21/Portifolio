@@ -8,3 +8,16 @@ html, body{
     height:100%;
 }
 
+.conteudo-principal{
+    width:60%;
+    padding: 20px;
+    background-color: rgb(85, 85, 189);
+}
+#minha-foto{
+    width:250px;
+    height: 200px;
+    margin: 0 20px;
+    padding: 0 20px;
+    float: right;
+}
+
