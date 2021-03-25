@@ -14,11 +14,28 @@ html, body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    box-shadow:3px 3px 5px black;
 }
 #minha-foto{
-    width:250px;
-    height: 200px;
+    width:350px;
+    height: 333.3px;
     margin: 0 20px;
     padding: 0 20px;
+    float: left;
+    position: relative;
+    left: 52%;
+    top: -121.5px;
+}
+
+header{
+    background-color:rgb(79, 79, 238);
+    width:40%;
+    height: 80%;
+    padding: 20px;
+    margin: auto;
+    padding-top: 30px;
+    position:relative;
+    top:50%;
+    box-shadow: 3px 3px 5px black;
 }
 
