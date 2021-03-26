@@ -17,8 +17,8 @@ html, body{
     box-shadow:3px 3px 5px black;
 }
 #minha-foto{
-    width:295px;
-    height: 276px;
+    width:38.5%;
+    height:20%;
     margin: 0 20px;
     padding: 0 20px;
     float: left;
@@ -53,12 +53,28 @@ section p{
     color:white;
    
 }
-#sobre-mim{
-
+.sobre-mim{
+    background-color: rgb(236, 232, 224);
+    width: 40%;
+    padding: 20px;
+    margin: auto;
+    clear: both;
+    position: relative;
+    top: -200px;
+}
+.sobre-mim p{
+    color: black;
+    text-align: center;
 }
 @media screen and (max-width: 1450px){
     #minha-foto{
-        width:38.5%;
-        height:122%;
+        width:38%;
+        height:127.5%;
+    }
+}
+
+@media screen and (max-width: 1920px){
+    #minha-foto{
+        height: 122.3%;
     }
 }
