@@ -17,25 +17,31 @@ html, body{
     box-shadow:3px 3px 5px black;
 }
 #minha-foto{
-    width:375px;
-    height: 352px;
+    width:295px;
+    height: 276px;
     margin: 0 20px;
     padding: 0 20px;
     float: left;
     position: relative;
     left: 59%;
-    top: -213px;
+    top: -212.3px;
 }
 
+.card{
+    position: relative;
+    top: -250px;
+    height: 30%;
+    
+}
 header{
     background-color:rgba(0, 148, 50,1.0);
-    width:50%;
+    width:40%;
     height: 80%;
     padding: 20px;
     margin: auto;
     padding-top: 30px;
     position:relative;
-    top:40%;
+    top:50%;
     box-shadow: 3px 3px 5px black;
 }
 section h1, h3{
